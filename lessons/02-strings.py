@@ -165,18 +165,3 @@ print("Python" not in text)
 # 2- طول favorite_game را با len() چاپ کن.
 # 3- اولین حرف favorite_movie را چاپ کن.
 # 4- بررسی کن آیا "Cat" داخل favorite_animal وجود دارد یا نه.
-#
-#
-# پاسخ نمونه
-#
-# favorite_game = "Minecraft"
-# favorite_movie = "Frozen"
-# favorite_animal = "Cat"
-#
-# print(favorite_game)
-# print(favorite_movie)
-# print(favorite_animal)
-#
-# print(len(favorite_game))
-# print(favorite_movie[0])
-# print("Cat" in favorite_animal)

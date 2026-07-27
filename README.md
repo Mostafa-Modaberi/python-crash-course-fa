@@ -4,14 +4,14 @@ A beginner-friendly **Python** course in **Persian (Farsi)** designed to help ab
 
 Whether you're a student, self-learner, or someone starting your programming journey, this repository will guide you step by step.
 
----
-
 ## 📚 Course Content
 
 Current lessons:
 
 - ✅ Variables
 - ✅ Strings
+- ✅ Numbers
+- ✅ Input
 
 More topics will be added regularly, including:
 
@@ -47,11 +47,29 @@ No previous programming experience is required.
 
 ## 📂 Repository Structure
 
-```text
-01-variables/
-02-strings/
-...
 ```
+python-crash-course-fa/
+│
+├── lessons/
+│   ├── 01_variables.py
+│   ├── 02_strings.py
+│   ├── ...
+│
+├── solutions/
+│   ├── 01_variables.py
+│   ├── 02_strings.py
+│   ├── ...
+│
+└── README.md
+```
+
+### lessons
+
+Contains all lesson files with explanations, examples, and exercises.
+
+### solutions
+
+Contains the solutions for each lesson's exercises.
 
 Each lesson contains:
 
