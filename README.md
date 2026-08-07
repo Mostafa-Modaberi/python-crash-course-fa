@@ -12,6 +12,8 @@ Current lessons:
 - ✅ Strings
 - ✅ Numbers
 - ✅ Input
+- ✅ Comparison operators
+- ✅ Conditioan operators (if/else/elif)
 
 More topics will be added regularly, including:
 
