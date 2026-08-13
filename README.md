@@ -14,17 +14,21 @@ Current lessons:
 - ✅ Input
 - ✅ Comparison operators
 - ✅ Conditioan operators (if/else/elif)
+- ✅ For loop
+- ✅ While loop
+- ✅ Functions
 
 More topics will be added regularly, including:
 
 - Numbers
+- Conditional Statements
+- Loops
+- Functions
+
 - Lists
 - Tuples
 - Dictionaries
 - Sets
-- Conditional Statements
-- Loops
-- Functions
 - Modules
 - Object-Oriented Programming (OOP)
 - File Handling
